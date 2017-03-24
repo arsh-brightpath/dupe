@@ -1,0 +1,14 @@
+/project56.Web/bin
+/project56.Web/obj
+/project56.WebApi/bin
+/project56.WebApi/obj
+/project56.EntityFramework/bin
+/project56.EntityFramework/obj
+/project56.Core/bin
+/project56.Core/obj
+/project56.Application/bin
+/project56.Application/obj
+/Tools/project56.Migrator/bin
+/Tools/project56.Migrator/obj
+/Tests/project56.Tests/bin
+/Tests/project56.Tests/obj
